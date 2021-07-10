@@ -88,7 +88,7 @@ const defaultSettings = {
     autoSongShuffle: "on",
     autoSongFadeout: "on",
     trippyMode: "off",
-    volume: 0.7,
+    volume: 0.1,
     skipPreloader: "off"
 };
 
