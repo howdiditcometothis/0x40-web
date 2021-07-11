@@ -588,7 +588,7 @@ class ModernUI extends HuesUI {
         let input = document.createElement("input");
         input.type = "range";
         input.min = 0;
-        input.max = 0.35;
+        input.max = 0.25;
         input.step = 0.001;
         volBar.appendChild(input);
         this.volInput = input;
